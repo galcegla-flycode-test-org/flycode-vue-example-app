@@ -9,3 +9,5 @@ apps:
     text-resources:
       - path: src/langs/*.json
         format: flat-key-value
+      - path: "*.vue"
+        format: vue-hardcoded
