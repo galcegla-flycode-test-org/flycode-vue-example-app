@@ -9,3 +9,4 @@ apps:
     text-resources:
       - path: "*.vue"
         format: vue-hardcoded
+
